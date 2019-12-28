@@ -1,0 +1,22 @@
+# Site settings
+title: Elmas Bilezik
+# email:
+description: "Alışılmadık yoldan gidenlerin platformu"
+# url: ""
+# baseurl: ""
+# github_username:
+# logo: /assets/img/logo.svg
+
+theme: jekyll-theme-hacker
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+
+# configure kramdown
+kramdown:
+  parse_block_html: true
