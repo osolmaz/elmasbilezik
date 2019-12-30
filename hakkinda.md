@@ -8,10 +8,10 @@ title: Hakkında
 Türkiye’deki sosyoekonomik durum ve alışkanlıklar nedeniyle birçok genç insan, hayatına istemediği bir bölümü okuyarak ve ilgili bir işte gönülsüzce çalışarak başlamaktadır. Genç insanlar seçimlerinde acele ettirilip
 - hayatlarının en az 4 senesine mal olacak,
 - herhangi bir finansal kazanç sağlamayacak,
-- ve uzun bir süre ailelerine bağımlı olmalarına sebep olacak
+- ve uzun bir süre ailelerine bağımlı kalmalarına sebep olacak
 
-bir yola sokulmaktadır. Bunun temelinde toplumun geneli tarafından paylaşılan “aralıksız okuyup, okulu uzatmadan mezun olmadan iş bulunamayacağı” gibi asılsız inançlar yatmaktadır.
+bir yola sokulmaktadır. Bunun temelinde toplumun geneli tarafından paylaşılan "aralıksız okuyup, okulu uzatmadan mezun olmadan iş bulunamayacağı" gibi asılsız inançlar yatmaktadır.
 
-**Bizler, bunun doğru olmadığının yaşayan ispatıyız, ve size yardım etmek için buradayız.**
+**Bizler, bunun doğru olmadığının yaşayan ispatıyız, ve sizlere yardım etmek için buradayız.**
 
 [Telegram grubumuza katılın.](https://t.me/elmasbilezik/)
